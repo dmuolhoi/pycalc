@@ -1,0 +1,10 @@
+{
+  "invalid_number": "Error: Invalid number format. Please enter a valid number.",
+  "insufficient_numbers": "Error: At least two numbers are required for this operation.",
+  "division_by_zero": "Error: Division by zero is not allowed.",
+  "invalid_option": "Error: Invalid option. Please select a valid menu option.",
+  "file_not_found": "Error: Required file not found.",
+  "unexpected_error": "Error: An unexpected error occurred. Please try again.",
+  "invalid_command": "Error: Invalid command. Type 'help' for assistance.",
+  "empty_input": "Error: Empty input. Please enter a value."
+}

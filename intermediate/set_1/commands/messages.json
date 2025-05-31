@@ -1,0 +1,10 @@
+{
+  "welcome": "Welcome to the CLI Calculator!",
+  "goodbye": "Thank you for using CLI Calculator. Goodbye!",
+  "interrupted": "Operation interrupted. Goodbye!",
+  "help_command": "Displaying help information...",
+  "about_command": "Displaying about information...",
+  "result": "Result: {}",
+  "enter_numbers": "Enter numbers (one per line, type 'done' when finished):",
+  "press_continue": "Press Enter to continue..."
+}

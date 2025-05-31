@@ -1,0 +1,1 @@
+while True: print("Output:", eval(input("Input: ")))
