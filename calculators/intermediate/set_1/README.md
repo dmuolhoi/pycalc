@@ -1,4 +1,4 @@
-# CLI INTERMEDIATE SET_2
+# CLI INTERMEDIATE SET
 
 A comprehensive command-line calculator built with Python, featuring basic arithmetic operations and an elegant user interface.
 
